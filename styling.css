@@ -1,0 +1,159 @@
+
+  @font-face {
+    font-family: 'Calinastiya';
+    src: url(/fonts/Calinastiya\ demo.ttf);
+  }
+
+   .my-name {
+    font-family: 'Beaming';
+    font-style: italic;
+    font-size: 50px;
+    color: blue;
+   }
+  
+   /* @font-face {
+    font-family: 'Cano';
+    src: url(/fonts/Cano.otf);
+   } */
+
+  p {
+    font-family: 'Gabriola';
+    color: black;
+    font-size: 20px;
+    font-weight: 200px;
+  }
+  
+  body {
+    margin: 0;
+    text-align: center;
+  }
+
+  .top-container {
+    background-color: rgb(113, 169, 243);
+    margin: 0px 0px 70px 0px;
+    position: relative;
+    padding-top: 100px;
+  }
+
+  .topcloud {
+    position: absolute;
+    left: 300px;
+    top: 100px;
+  }
+  .rightcloud {
+
+  }
+
+ .img {
+  margin-top: 0px;
+ }
+
+ @font-face {
+  font-family:'APOLLO' ;
+  src: url(fonts/APOLLO.otf);
+ }
+
+ .greetings {
+  font-family: 'APOLLO';
+  color: rgb(26, 49, 252);
+ }
+
+ .about {
+  line-height: 1.5;
+  width: 40%;
+  margin: auto;
+ }
+
+ hr { 
+  border-style: none;
+  border-top-style: dotted;
+  height: 1px;
+  width: 7%;
+  border-width: 8px;
+  border-color: rgb(202, 202, 202);
+  margin: 70px auto 70px auto;
+}
+
+.Cap {
+  font-family: 'APOLLO';
+  color: rgb(26, 49, 252);
+}
+
+.abilities {
+  text-align: left;
+  width: 70%;
+  margin: auto;
+}
+
+.second-img{
+  height: 150px;
+  margin-left: 90px;
+  float: left;
+}
+
+.heading {
+  font-family: 'APOLLO';
+  color: rgb(26, 49, 252);
+  margin-left: 255px;
+  
+}
+
+.concept {
+  line-height: 1.5;
+  width: 40%;
+  margin: auto;
+}
+
+
+.third-img {
+  height: 150px;
+  float: right; 
+  margin-right: 180px;
+}
+
+.heading-2 {
+  font-family:'APOLLO';
+  color: rgb(26, 49, 252);
+  text-align: center;
+}
+
+.last-container {
+  background-color: rgb(113, 169, 243);
+  padding: 20px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.rights {
+  font-size: 17px;
+  color: blue;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: blue;
+  margin: 0 15px;
+  font-family: 'Gabriola';
+  font-size: 16px;
+}
+
+.footer-link:hover {
+   color: rgb(68, 68, 245);
+}
+
+.button {
+  text-decoration: none;
+  background-color: rgb(61, 164, 248);
+  font-family: Helvetica;
+  display: inline-block;
+  color: rgb(218, 243, 247);
+  padding: 15px 20px;
+  border-radius: 9px;
+  margin: 40px auto 50px;
+}
+
+.button:hover {
+ background-color: rgb(13, 49, 255);
+}
